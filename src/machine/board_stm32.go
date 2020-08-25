@@ -1,4 +1,4 @@
-// +build bluepill nucleof103rb stm32f4disco
+// +build bluepill nucleof103rb stm32f4disco ferret_r0
 
 package machine
 
