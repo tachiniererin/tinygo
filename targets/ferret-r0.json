@@ -11,6 +11,6 @@
 		"src/device/stm32/stm32f103xx.s"
 	],
 	"flash-method": "openocd",
-	"openocd-interface": "stlink-v2",
+	"openocd-interface": "stlink",
 	"openocd-target": "stm32f1x"
 }
